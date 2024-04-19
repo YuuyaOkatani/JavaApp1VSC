@@ -5,39 +5,9 @@ package javaapp1vsc;
 
 
 public class App {
+
+    
    
 
-    public static void main(String[] args) {
-        int id; 
-          
-        Node next;
-        Object value;  
-    }
-
-
-    public class ListarLinearSimples{
-        public Node top; 
-        public Node bottom; 
-
-        private void add(Node Node){
-
-
-            
-            
-        }
     
-        private void show(){
-         
-            
-    
-            
-        }
-
-      
-
-        
-
-
-
-    }
 }
